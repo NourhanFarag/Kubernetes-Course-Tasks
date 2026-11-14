@@ -1,0 +1,2 @@
+# Local Kubernetes Secret containing lab credentials
+manifests/02-mysql-secret.yaml
